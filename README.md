@@ -1,3 +1,2 @@
-- Utilized Python (Pandas, Matplotlib, Seaborn) to perform exploratory data analysis on a 1000-entry IMDb dataset.
-- Analyzed key metrics (votes, runtime, genre) to derive insights on trends in movie ratings and gross revenue.
-- Created a series of static visualizations, including a decade-based chart of ratings and a chart correlating gross revenue with genres.
+- Executed exploratory data analysis (EDA) on transactional data using Python(Pandas, NumPy, Matplotlib).
+- Extracted and visualized key insights on customer demographics, purchase behavior, seasonal trends, and engagement metrics, automating the generation of all graphical reports.
